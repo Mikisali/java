@@ -1,0 +1,5 @@
+sok 1 200
+chleb 2 300
+zupa 4 502
+kasza 3 500
+majonez_kielecki 2 450
